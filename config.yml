@@ -1,0 +1,8 @@
+end_point:
+  retail_summary: http://www.expedia.com/api/hotels/retailsummary/
+  media_gallery: http://media.expedia.com
+  resolve_region: https://www.expedia.com/api/geo/resolveregion/
+  hotels_in_region: http://www.expedia.com/api/hotels/hotelidsforregion/
+
+data_directory: data
+num_threads: 8
